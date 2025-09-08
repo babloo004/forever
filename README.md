@@ -11,3 +11,19 @@ root/
 ├── admin/       → Admin panel application
 ├── README.md    → This overview file
 ├── .gitignore
+
+Features
+
+Authentication: JWT-based signup and login.
+
+Product CRUD & Filtering: Create, read, update, delete products; filter by price, category.
+
+Cart Management: Add/remove items; cart persists across sessions.
+
+Admin Panel: Manage products/users (if admin folder exists).
+
+Live Demo
+
+Frontend live app
+
+Backend API
