@@ -93,5 +93,3 @@ Use **Postman** or any API client:
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
