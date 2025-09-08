@@ -28,9 +28,9 @@ root/
 
 ## 🌐 Live Demo
 
-- **Frontend Live App** → [https://forever-frontend-one-dusky.vercel.app/](#)
-- **Backend API** → [https://forever-backend-woad-five.vercel.app/](#)
-- **Admin Panel** → [https://forever-admin-red-zeta.vercel.app/](#)
+- **Frontend Live App** → [https://forever-frontend-one-dusky.vercel.app/](https://forever-frontend-one-dusky.vercel.app/)
+- **Backend API** → [https://forever-backend-woad-five.vercel.app/](https://forever-backend-woad-five.vercel.app/)
+- **Admin Panel** → [https://forever-admin-red-zeta.vercel.app/](https://forever-admin-red-zeta.vercel.app/)
 
 ---
 
