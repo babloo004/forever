@@ -28,8 +28,9 @@ root/
 
 ## 🌐 Live Demo
 
-- **Frontend Live App** → [Add URL here](#)
-- **Backend API** → [Add URL here](#)
+- **Frontend Live App** → [https://forever-frontend-one-dusky.vercel.app/](#)
+- **Backend API** → [https://forever-backend-woad-five.vercel.app/](#)
+- **Admin Panel** → [https://forever-admin-red-zeta.vercel.app/](#)
 
 ---
 
