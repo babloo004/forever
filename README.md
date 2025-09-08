@@ -8,6 +8,6 @@
 root/
 ├── frontend/    → React-based front-end application
 ├── backend/     → Node.js/Express REST API with JWT authentication & product APIs
-├── admin/       → (Optional) Admin panel application
+├── admin/       → Admin panel application
 ├── README.md    → This overview file
 ├── .gitignore
