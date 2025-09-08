@@ -13,6 +13,7 @@ root/
 ├── .gitignore
 
 
+
 ---
 
 ## 🚀 Features
@@ -34,6 +35,4 @@ root/
 ## 🛠️ Getting Started
 
 ### 1. Clone the repo
-```bash
-git clone https://github.com/babloo004/forever.git
-cd forever
+
