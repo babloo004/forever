@@ -12,18 +12,28 @@ root/
 ├── README.md    → This overview file
 ├── .gitignore
 
-Features
 
-Authentication: JWT-based signup and login.
+---
 
-Product CRUD & Filtering: Create, read, update, delete products; filter by price, category.
+## 🚀 Features
 
-Cart Management: Add/remove items; cart persists across sessions.
+- **Authentication**: JWT-based signup and login.
+- **Product CRUD & Filtering**: Create, read, update, delete products; filter by price, category.
+- **Cart Management**: Add/remove items; cart persists across sessions.
+- **Admin Panel**: Manage products and users (if admin folder is used).
 
-Admin Panel: Manage products/users (if admin folder exists).
+---
 
-Live Demo
+## 🌐 Live Demo
 
-Frontend live app
+- **Frontend App** → [URL-to-deployed-frontend](#)
+- **Backend API** → [URL-to-deployed-backend](#)
 
-Backend API
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/babloo004/forever.git
+cd forever
